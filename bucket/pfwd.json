@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hoanghero125/pfwd/releases/download/v0.1.0/pfwd_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/hoanghero125/pfwd/releases/download/v0.2.0/pfwd_0.2.0_windows_amd64.zip",
             "bin": [
                 "pfwd.exe"
             ],
-            "hash": "434748e851b4e3a31194b76de4ad4ad56eb07c920c10621b13ee49aa484afe0e"
+            "hash": "82003228f371eb4eab444b2b802600d980cada222e677b70820a6d49288cdaea"
         },
         "arm64": {
-            "url": "https://github.com/hoanghero125/pfwd/releases/download/v0.1.0/pfwd_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/hoanghero125/pfwd/releases/download/v0.2.0/pfwd_0.2.0_windows_arm64.zip",
             "bin": [
                 "pfwd.exe"
             ],
-            "hash": "cfcf298c7bb8e02c1d0a2f1adecbc5992c62820a0a33d6338ff927c3a5d9585c"
+            "hash": "c8e3bd56c5c6ca66d81e4b4caef405207eea058b096a5cffb698d3314142f6b4"
         }
     },
     "homepage": "https://github.com/hoanghero125/pfwd",
