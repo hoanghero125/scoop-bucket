@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hoanghero125/pfwd/releases/download/v0.1.0/pfwd_0.1.0_windows_amd64.zip",
+            "bin": [
+                "pfwd.exe"
+            ],
+            "hash": "434748e851b4e3a31194b76de4ad4ad56eb07c920c10621b13ee49aa484afe0e"
+        },
+        "arm64": {
+            "url": "https://github.com/hoanghero125/pfwd/releases/download/v0.1.0/pfwd_0.1.0_windows_arm64.zip",
+            "bin": [
+                "pfwd.exe"
+            ],
+            "hash": "cfcf298c7bb8e02c1d0a2f1adecbc5992c62820a0a33d6338ff927c3a5d9585c"
+        }
+    },
+    "homepage": "https://github.com/hoanghero125/pfwd",
+    "license": "MIT",
+    "description": "Detect and forward remote ports over SSH from a terminal UI"
+}
